@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">cars</string>
+    <string name="price">Price</string>
+    <string name="car_1">blue and black sport car</string>
+    <string name="carPrice1">200000SR</string>
+    <string name="car_10">black classic car</string>
+    <string name="carPrice10">125000SR</string>
+    <string name="car_2">gold sport car</string>
+    <string name="carPrice2">500000SR</string>
+    <string name="car_3">orange and black sport car</string>
+    <string name="carPrice3">150000SR</string>
+    <string name="car_4">white sport car</string>
+    <string name="carPrice4">350000SR</string>
+    <string name="car_5">black and blue sport car</string>
+    <string name="carPrice5">1000000SR</string>
+    <string name="car_6">gold SUV car</string>
+    <string name="carPrice6">124500SR</string>
+    <string name="car_7">red and black sport car</string>
+    <string name="carPrice7">800000SR</string>
+    <string name="car_8">black SUV car</string>
+    <string name="carPrice8">255000SR</string>
+    <string name="car_9">blue sport car</string>
+    <string name="carPrice9">12500000SR</string>
+</resources>
